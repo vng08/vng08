@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**vng08/vng08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Phạm Tuấn Vương**, a Data Science student at the **University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM)**.
 
-Here are some ideas to get you started:
+- 🎓 Studying **Data Science**
+- 🔍 Looking for internship opportunities in **AI / Machine Learning / Computer Vision**
+- 🌱 Interested in building practical AI systems and improving my skills through real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,git,github" />
+</p>
+
+### 📚 Machine Learning & AI
+
+- PyTorch
+- TensorFlow
+- scikit-learn
+- OpenCV
+- YOLO
+- NumPy
+- Pandas
